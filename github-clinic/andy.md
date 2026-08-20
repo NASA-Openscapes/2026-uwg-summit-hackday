@@ -8,13 +8,7 @@ Let's edit this file by clicking the pencil icon at the top-right of the file.
 fdaf
 ## Task 2: Practice Markdown 
 
-Now let's practice Markdown and commit another edit to this file. 
-
-This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
-
-We can make words **bold** or *italic*.
-
-### We can make headers.
+Now let's practice Markdown and commit aajfd
 
 We can make lists – *note that lists need an empty line before list items!*
 
