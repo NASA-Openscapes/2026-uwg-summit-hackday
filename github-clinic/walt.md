@@ -42,6 +42,18 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
+## Passive Microwave Sensors
+
+1. SMMR
+2. SSMI
+3. SSMIS
+4. AMSR-E
+5. AMSR2
+6. [AMSR3](https://space.oscar.wmo.int/instruments/view/amsr3)
+7. WSF-MWI
+
+>Current fully operational sensors are: AMSR2, AMSR3, WSF-MWI
+
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
