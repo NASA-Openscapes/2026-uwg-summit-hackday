@@ -3,13 +3,6 @@
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
 
 ## Task 1: Commit an edit from the browser
-
-Let's edit this fileers.
-
-We can make lists – *note that lists need an empty line before list items!*
-
-1. bananas
-2. tamales
 3. cakes
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
