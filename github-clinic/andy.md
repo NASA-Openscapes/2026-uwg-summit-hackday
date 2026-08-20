@@ -5,12 +5,13 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 ## Task 1: Commit an edit from the browser
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
+fdaf
+## Task 2: Practice Markdown 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Now let's practice Markdown and commit another edit to this file. 
 
-Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
+This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
-Note: In the browser, GitHub will sfadfd
 We can make words **bold** or *italic*.
 
 ### We can make headers.
